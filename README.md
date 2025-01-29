@@ -1,4 +1,3 @@
-# DSP-Projects 
 
 ## Analog Circuit Modeling of MXR MicroAmp Guitar Pedal 🎸🎛️  
 
