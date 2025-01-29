@@ -93,12 +93,10 @@ This project models the **MXR MicroAmp**, a renowned clean boost guitar pedal, t
 </p>  
 
 ---
+## 📚 References  
 
-## 🚀 How to Use  
-
-### 🔹 Clone this repository:  
-```bash
-git clone https://github.com/your-username/mxr-microamp-modeling.git  
- 
+📌 [MXR MicroAmp Schematic](https://www.electrosmash.com/mxr-microamp-analysis)  
+📌 [JUCE Framework](https://juce.com/)  
+📌 [HISE Platform](https://hise.audio/)  
 
 
