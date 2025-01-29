@@ -4,7 +4,7 @@
 
 ## MXR MicroAmp Guitar Pedal:
 
-                                        ![image](https://github.com/user-attachments/assets/a61deea1-a00f-4caa-8535-8cc7f0516e7e)
+![image](https://github.com/user-attachments/assets/a61deea1-a00f-4caa-8535-8cc7f0516e7e)
 
 
 ### Overview  
