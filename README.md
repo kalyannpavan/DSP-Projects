@@ -67,12 +67,7 @@ This project models the **MXR MicroAmp** guitar pedal, a renowned clean boost pe
 ---
 
 ## Screenshots & Visuals 📸  
-*(Include circuit diagrams, simulation results, plugin interface screenshots, and waveform comparisons between analog and digital models.)*  
+![image](https://github.com/user-attachments/assets/1bf283f0-9293-4158-849c-8bdd60a0af10)
 
----
 
-## How to Use 🚀  
-
-### 📥 Clone this repository  
-```bash
-git clone https://github.com/your-username/mxr-microamp-modeling.git  
+ 
