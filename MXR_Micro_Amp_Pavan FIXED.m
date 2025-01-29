@@ -1,3 +1,5 @@
+Octave Code for MXR MicroAmp Circuit
+
 % MXR Micro Amp
 
 clear; clc; close all;
