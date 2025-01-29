@@ -1,6 +1,12 @@
 
 ## Analog Circuit Modeling of MXR MicroAmp Guitar Pedal 🎸🎛️  
 
+
+## MXR MicroAmp Guitar Pedal:
+
+![image](https://github.com/user-attachments/assets/a61deea1-a00f-4caa-8535-8cc7f0516e7e)
+
+
 ### Overview  
 This project models the **MXR MicroAmp** guitar pedal, a renowned clean boost pedal, to **simulate, analyze, and digitally replicate** its performance. The workflow includes:  
 - **Analog circuit simulation**  
@@ -67,7 +73,13 @@ This project models the **MXR MicroAmp** guitar pedal, a renowned clean boost pe
 ---
 
 ## Screenshots & Visuals 📸  
+
+## Schematic:
 ![image](https://github.com/user-attachments/assets/1bf283f0-9293-4158-849c-8bdd60a0af10)
+
+
+## Octave Frequency Response Plot:
+![image](https://github.com/user-attachments/assets/3a33ee39-184a-435e-9bf6-8b4b5880b4a0)
 
 
  
