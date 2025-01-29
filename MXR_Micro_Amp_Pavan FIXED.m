@@ -1,4 +1,4 @@
-Octave Code for MXR MicroAmp Circuit
+% Octave Code for MXR MicroAmp Circuit
 
 % MXR Micro Amp
 
